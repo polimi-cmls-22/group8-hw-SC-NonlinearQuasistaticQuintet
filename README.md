@@ -1,4 +1,4 @@
-Welcome to the Harmonizer by Nonlinear Quasistatic Quintet.
+Welcome to the "Harmonizor" by Nonlinear Quasistatic Quintet.
 
 The aim of this project is to mix a dry monophonic signal with an harmonized version of itself.
 
