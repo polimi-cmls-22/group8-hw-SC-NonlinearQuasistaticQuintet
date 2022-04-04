@@ -1,1 +1,0 @@
-# group8-hw-SC-NonlinearQuasistaticQuintet
