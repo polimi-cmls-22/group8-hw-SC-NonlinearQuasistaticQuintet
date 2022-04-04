@@ -18,8 +18,9 @@ All the voices go thorugh the same reverb and delay effect.
 To work as intended the PitchShiftPA pseudo-UGen should be installed.  
 To install it do as follows:  
 1. In the "Language" drop-down menu select "Quarks"
-2. From the list find "PitchShiftPA" and download it
-3. Restart Supercollider and the pseudo-UGen should be recognized in the Supercollider IDE
+2. From the list find "PitchShiftPA" and click on th "+" button on the left
+3. Verify that PitchshiftPA is now on top of the list
+4. Click on the "Recompile class library" on the top right of the screen
 
 
 ## INSTRUCTIONS
